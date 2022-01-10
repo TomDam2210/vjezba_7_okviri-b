@@ -1,0 +1,1 @@
+{"version":3,"sources":["Poruka.css"],"names":[],"mappings":"AAAA,UACI,iBAAkB,CAClB,gBACJ,CAEA,OACI,eACJ,CAEA,SACI,iBACJ","file":"main.a5670662.chunk.css","sourcesContent":["li > button {\r\n    padding-left: 10px;\r\n    margin-left: 10px;\r\n}\r\n\r\n.vazno {\r\n    font-weight: bold;\r\n}\r\n\r\n.nevazno {\r\n    font-style: italic;\r\n}"]}
